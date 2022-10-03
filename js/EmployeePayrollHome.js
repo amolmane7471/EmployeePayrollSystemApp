@@ -46,7 +46,6 @@ const createInnerHTML = () => {
 
 }
 
-
 const getDeptHTML = (deptList) => {
     let deptHTML = '';
     for (let dept of deptList) {
